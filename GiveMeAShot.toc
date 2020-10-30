@@ -1,0 +1,26 @@
+## Interface: 90001
+## Title: Give Me A Shot
+## Version: 1.0.0
+## Author: PitriPan
+## Notes: This addon automatically takes screenshots of specific events.
+## Notes-deDE: Dieses Addon macht automatisch Screenshots zu bestimmten Ereignissen.
+## DefaultState: enabled
+## SavedVariables: GiveMeAShotDB
+
+## X-Date: 2020-10-30T12:00:00Z
+## X-Website: https://www.curseforge.com/wow/addons/give-me-a-shot
+## X-License: GNU General Public License v3
+## X-Localizations: enUS, deDE
+## X-Category: 
+
+
+embeds.xml
+
+locale\enUS.lua
+locale\deDE.lua
+
+core.lua
+
+modules\util.lua
+modules\controls.lua
+modules\config.lua
